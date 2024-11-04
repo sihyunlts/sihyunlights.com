@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sihyunlights.com/static/css/main.a4367fab.css",
-    "main.js": "/sihyunlights.com/static/js/main.52a69ed5.js",
+    "main.js": "/sihyunlights.com/static/js/main.9d09568c.js",
     "static/js/453.fb2fc6bd.chunk.js": "/sihyunlights.com/static/js/453.fb2fc6bd.chunk.js",
     "index.html": "/sihyunlights.com/index.html",
     "main.a4367fab.css.map": "/sihyunlights.com/static/css/main.a4367fab.css.map",
-    "main.52a69ed5.js.map": "/sihyunlights.com/static/js/main.52a69ed5.js.map",
+    "main.9d09568c.js.map": "/sihyunlights.com/static/js/main.9d09568c.js.map",
     "453.fb2fc6bd.chunk.js.map": "/sihyunlights.com/static/js/453.fb2fc6bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4367fab.css",
-    "static/js/main.52a69ed5.js"
+    "static/js/main.9d09568c.js"
   ]
 }
