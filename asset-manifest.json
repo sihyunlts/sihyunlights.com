@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sihyunlights.com/static/css/main.a4367fab.css",
-    "main.js": "/sihyunlights.com/static/js/main.daa0306b.js",
-    "static/js/453.fb2fc6bd.chunk.js": "/sihyunlights.com/static/js/453.fb2fc6bd.chunk.js",
-    "index.html": "/sihyunlights.com/index.html",
-    "main.a4367fab.css.map": "/sihyunlights.com/static/css/main.a4367fab.css.map",
-    "main.daa0306b.js.map": "/sihyunlights.com/static/js/main.daa0306b.js.map",
-    "453.fb2fc6bd.chunk.js.map": "/sihyunlights.com/static/js/453.fb2fc6bd.chunk.js.map"
+    "main.css": "/static/css/main.a4367fab.css",
+    "main.js": "/static/js/main.c97d40bb.js",
+    "static/js/453.fb2fc6bd.chunk.js": "/static/js/453.fb2fc6bd.chunk.js",
+    "index.html": "/index.html",
+    "main.a4367fab.css.map": "/static/css/main.a4367fab.css.map",
+    "main.c97d40bb.js.map": "/static/js/main.c97d40bb.js.map",
+    "453.fb2fc6bd.chunk.js.map": "/static/js/453.fb2fc6bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4367fab.css",
-    "static/js/main.daa0306b.js"
+    "static/js/main.c97d40bb.js"
   ]
 }
